@@ -1,0 +1,6 @@
+streamlit
+cryptography
+qrcode
+pillow
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
